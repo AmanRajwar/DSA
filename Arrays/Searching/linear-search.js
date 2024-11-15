@@ -40,3 +40,4 @@ var search = function (nums, target) {
 
 
 // leet code link  = https://leetcode.com/problems/binary-search/
+// time complexity  = O(n)
