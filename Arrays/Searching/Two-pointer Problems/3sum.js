@@ -48,8 +48,7 @@ var threeSum = function (nums) {
     return ans;
 
 };
-
-// Leet code link : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+// Leet code link : https://leetcode.com/problems/3sum
 // Time Complexity: O(n2)
-// Space Complexity: 
+// Space Complexity: O(1)
 
