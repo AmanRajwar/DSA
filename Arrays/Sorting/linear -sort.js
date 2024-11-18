@@ -16,3 +16,6 @@ var sortArray = function (nums) {
     return nums
 };
 
+// Leet code Link = https://leetcode.com/problems/sort-an-array/fadfd
+// Time Complexity: O(n2)
+// Auxiliary Space: O(1)
